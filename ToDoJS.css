@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    margin-top: 100px;
+    line-height: 50px;
+    background-color:cornsilk;
+    font-size: larger;
+    border: 2px solid cornflowerblue;
+    padding: 150px;
+    
+    
+}
+#add{
+    margin: 10px;
+    padding-left:20px;
+    padding-right: 20px;
+    border: 1px solid cornflowerblue;
+    border-radius: 10px;
+    
+
+}
+#remove{
+    margin: 10px;
+    padding-left:20px;
+    padding-right: 20px;
+    border: 1px solid cornflowerblue;
+    border-radius: 10px;  
+
+}
+input{
+    border-radius: 10px;
+    border: 1px solid cornflowerblue;
+}
+h1{
+    color:cornflowerblue;
+}
